@@ -4,4 +4,6 @@
     <string name="regit">ลงทะเบียนใช้งาน</string>
     <string name="have_space">กรุณากรอกทุกอย่าง ค่ะ</string>
     <string name="success_Regit">ลงทะเบียนเรียนร้อยแล้วคับ</string>
+    <string name="user">User :</string>
+    <string name="pssword">Password :</string>
 </resources>
