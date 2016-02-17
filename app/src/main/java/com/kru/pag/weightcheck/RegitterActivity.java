@@ -27,6 +27,7 @@ public class RegitterActivity extends AppCompatActivity {
         PasswordEdittext = (EditText) findViewById(R.id.editText2);
         NameEdittext = (EditText) findViewById(R.id.editText3);
 
+
     }
 
     public void clickRegit(View view) {
